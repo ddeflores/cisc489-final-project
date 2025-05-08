@@ -4,7 +4,7 @@
 ## To View the Notebook:
 - Open `CISC489_Final_Project.ipynb` in the *root* directory of the repository
 
-## To Run the Environment
+## To Run the Environment:
 
 First, make sure you have installed all dependencies:
 
