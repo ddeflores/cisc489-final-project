@@ -6,13 +6,18 @@
 
 ## To Run the Environment:
 
-First, make sure you have installed all dependencies:
+1. Clone the repository:
+`git clone [insert url here] [insert directory to clone into here]`
 
+2. Make the depository your cwd:
+`cd [insert directory name here]`
+
+3. Make sure you have installed all dependencies:
 ```bash
 npm i
 ```
 
-Next, run the development server:
+4. Run the development server:
 
 ```bash
 npm run dev
@@ -24,9 +29,10 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Built with:
-
+- TypeScript
 - next@15.3.2
 - Google Colab, for ease of Python version management
+- Deployed on Vercel
