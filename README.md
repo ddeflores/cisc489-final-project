@@ -4,9 +4,7 @@
 ## To View the Notebook:
 - Open `CISC489_Final_Project.ipynb` in the *root* directory of the repository
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
+## To Run the Environment
 
 First, make sure you have installed all dependencies:
 
