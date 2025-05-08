@@ -7,12 +7,14 @@
 ## To Run the Environment:
 
 1. Clone the repository:
-`git clone [insert url here] [insert directory to clone into here]`
+`git clone [https://github.com/ddeflores/cisc489-final-project.git](https://github.com/ddeflores/cisc489-final-project.git) cisc489-final-project`
 
-2. Make the depository your cwd:
-`cd [insert directory name here]`
+(Replace cisc489-final-project with the directory name you prefer)
 
-3. Make sure you have installed all dependencies:
+3. Make the depository your cwd:
+`cd cisc489-final-project`
+
+4. Make sure you have installed all dependencies:
 ```bash
 npm i
 ```
