@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python virtual environment
+.venv/
+
+# ignore training loss curve image
+/training_loss_curves.png
+/conservation_over_time.png
